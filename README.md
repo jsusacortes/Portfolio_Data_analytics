@@ -9,7 +9,7 @@ A collection of end-to-end analytics projects built around real business problem
 | # | Project | Domain | Key Skills | Status |
 |---|---------|--------|------------|--------|
 | 1 | [Sales Performance Dashboard](#-project-1-sales-performance-dashboard) | Revenue Analytics | Pandas, Plotly, Streamlit | Complete |
-| 2 | [Customer Churn Prediction](#-project-2-customer-churn-prediction) | Customer Retention | Classification, Scikit-learn, XGBoost | Planned |
+| 2 | [Customer Churn Prediction](#-project-2-customer-churn-prediction) | Customer Retention | Classification, Scikit-learn, XGBoost | Complete |
 | 3 | [Lead Scoring Model](#-project-3-lead-scoring-model) | Sales Ops | Logistic Regression, Feature Engineering | Planned |
 | 4 | [Sales Forecasting](#-project-4-sales-forecasting) | Revenue Planning | Prophet, Time Series, Statsmodels | Planned |
 | 5 | [Funnel Drop-off Analysis](#-project-5-funnel-drop-off-analysis) | Marketing Analytics | CRM Analysis, Cohort Analysis, Plotly | Planned |
@@ -53,7 +53,7 @@ A chocolate sales company needs visibility into rep performance, product margins
 
 **Business question:** Which customers are likely to cancel — and what can we do before they leave?
 
-[View Repository](#)
+[View Repository](https://github.com/jsusacortes/Churn-prediction-model.git)
 
 ### Business Context
 Retaining an existing customer costs far less than acquiring a new one. By identifying high-risk accounts before they churn, customer success teams can intervene with targeted outreach and reduce revenue loss.
