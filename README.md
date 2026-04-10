@@ -2,8 +2,6 @@
 
 A collection of end-to-end analytics projects built around real business problems in sales, marketing, and customer intelligence. Each project covers the full workflow — data cleaning, exploratory analysis, modeling or statistical testing, and actionable business recommendations — using Python and industry-standard tools.
 
-> Built for employers: every project is framed around a business question, not just a technical exercise.
-
 ---
 
 ## Project Overview
