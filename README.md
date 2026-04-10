@@ -22,7 +22,7 @@ A collection of end-to-end analytics projects built around real business problem
 
 **Business question:** Which reps, products, and regions are driving revenue — and where are the opportunities?
 
-[View Repository](#)
+[View Repository](https://github.com/jsusacortes/Sales-performance-dashboard.git)
 
 ### Business Context
 A chocolate sales company needs visibility into rep performance, product margins, and regional trends to make informed decisions about where to coach, invest, and expand. This interactive dashboard replaces static reports with a filterable, real-time view of the business.
